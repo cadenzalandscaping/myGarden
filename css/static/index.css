@@ -24,3 +24,8 @@
 #minimal-bootstrap-carousel .carousel-inner .slide-2 {
     background-image: url(../../images/home_page/home_slider_img1_2.jpg);
 }
+
+#minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-top.home1_slide1,
+#minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-top.home1_slide2 {
+    padding: 315px 0px 0px 0px;
+}
