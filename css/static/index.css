@@ -29,3 +29,6 @@
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-top.home1_slide2 {
     padding: 315px 0px 0px 0px;
 }
+#minimal-bootstrap-carousel .carousel-inner .item {
+    min-height: 855px!important;
+}
