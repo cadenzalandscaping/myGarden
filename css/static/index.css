@@ -1,0 +1,26 @@
+
+
+@media (min-width: 768px){
+    .hdr_top_bar .col-sm-7 {
+        width: 78.33333333%;
+    }
+    .hdr_top_bar .col-sm-5 {
+        width: 21.66666667%;
+    }
+}
+
+.hdr_top_bar {
+    background: #152614;
+}
+
+#main-navigation-wrapper.navbar-default {
+    background: url('https://');
+    background-color: #F3F4F6;
+}
+
+#minimal-bootstrap-carousel .carousel-inner .slide-1 {
+    background-image: url(../../images/home_page/home_slider_img1_1.jpg);
+}
+#minimal-bootstrap-carousel .carousel-inner .slide-2 {
+    background-image: url(../../images/home_page/home_slider_img1_2.jpg);
+}
