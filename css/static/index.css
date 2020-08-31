@@ -32,3 +32,23 @@
 #minimal-bootstrap-carousel .carousel-inner .item {
     min-height: 855px!important;
 }
+
+.landing_gardening_txt{
+    font-style: normal;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 260px){
+    .hdr_cnt ul li a, .hdr_cnt ul li {
+        font-size: 13px;
+    }
+    .hdr_msg_icon {
+        
+    }
+    .hdr_call_icon {
+    }
+
+}
+.navbar-header,
+#main-navigation-wrapper.navbar-default {
+    background-color: white;
+}
